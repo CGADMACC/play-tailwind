@@ -1552,9 +1552,9 @@ Ensure the default browser behavior of the `hidden` attribute.
   color: #090e34b3;
 }
 
-.text-\[\#f3f4fe\]{
+.text-\[\#FCBF49\]{
   --tw-text-opacity: 1;
-  color: rgb(243 244 254 / var(--tw-text-opacity));
+  color: rgb(252 191 73 / var(--tw-text-opacity));
 }
 
 .text-\[\#dddddd\]{

@@ -1110,7 +1110,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .border-\[\#F3F4FE\]{
   --tw-border-opacity: 1;
-  border-color: rgb(243 244 254 / var(--tw-border-opacity));
+  border-color: rgb(252 191 73 / var(--tw-border-opacity));
 }
 
 .border-opacity-40{
